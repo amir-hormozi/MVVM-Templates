@@ -1,7 +1,7 @@
 # MVVM Templates
 
 
-This Template Support most type of MVVM implementations.
+Most MVVM implementations are supported by this template.
 
 ## About implementations 
 - ✅ Simple MVVM
